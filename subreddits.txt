@@ -1,0 +1,6 @@
+news
+learnpython
+python
+worldnews
+politics
+technology
